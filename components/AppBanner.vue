@@ -3,8 +3,8 @@
         <!-- Banner left contents -->
         <div class="w-full md:w-1/3 text-left">
             <h1
-                class="font-display font-bold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase">
-                Hi! I'm Kimcy
+                class="font-graphik font-bold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase">
+                Hi! I'm Kim Chica
             </h1>
             <p
                 class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400">
@@ -18,11 +18,7 @@
                     <span class="text-sm sm:text-lg font-general-medium duration-100">Download Resume</span>
                 </a>
             </div>
-
         </div>
-
-
-
         <!-- Banner right illustration -->
         <div class="w-full md:w-2/3 text-right float-right">
             <img src="@/assets/images/developer.svg" class="w-3/4" alt="Developer" />
