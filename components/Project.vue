@@ -22,7 +22,7 @@ export default {
             {{ ProjectHeading }}
         </p>
     </div>
-    <div class="grid grid-cols-4 gap-4 mx-10">
+    <div class="grid grid-cols-1 gap-4 mx-10 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         <div v-for="project in projects" :key="project.title" :project="project"
             class="items-center p-6 space-y-3 text-center bg-gray transform transition duration-500 hover:scale-90 hover:bg-gray-300 rounded-xl dark:bg-gray-800 hover:shadow-sm dark:hover:bg-gray-600">
             <span class="inline-block p-3 text-blue-500 bg-white dark:bg-gray-200 rounded-md dark:text-white">
