@@ -24,27 +24,6 @@ export default {
                     img: 'tools/drawio.svg',
                     info: 'web-based diagramming and flowcharting tool that allows users to create a wide variety of diagrams, including flowcharts, network diagrams, and organization charts',
                 },
-                {
-                    title: 'Jira',
-                    img: 'tools/jira.svg',
-                    info: 'Project management tool that designed to help teams plan, track, and manage software development projects and used by agile development teams in a collaborative manner',
-                },
-                {
-                    title: 'Selenium',
-                    img: 'tools/selenium.svg',
-                    info: 'Open-source automation testing tool used for web application testing and used to automate the testing of web applications across different web browsers and operating systems',
-                },
-                {
-                    title: 'Grafana',
-                    img: 'tools/grafana.svg',
-                    info: 'Open-source data visualization and analytics platform used to visualize and analyze data from a wide range of sources, including databases, cloud services, and IoT devices',
-                },
-                {
-                    title: 'Proxmox',
-                    img: 'tools/proxmox.svg',
-                    info: 'Open-source virtualization management platform that allows users to manage virtual machines, containers, and software-defined storage in a centralized web-based interface',
-                },
-
             ],
         };
     },

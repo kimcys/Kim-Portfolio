@@ -9,7 +9,7 @@
             </h1>
             <p
                 class="font-general-medium mt-5 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400">
-                A Front End Developer & Software Tester
+                A Front End Developer
             </p>
 
             <div class="flex justify-center mt-5 sm:block xl:block">

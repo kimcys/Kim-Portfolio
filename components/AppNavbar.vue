@@ -33,6 +33,12 @@
                         </NuxtLink>
                     </li>
                     <li>
+                        <NuxtLink @click="onClickNavMenu(false)" to="certs"
+                            class="block mt-4 lg:inline-block lg:mt-0 font-sans text-lg font-bold text-black-200 hover:text-white mr-4">
+                            Certificates
+                        </NuxtLink>
+                    </li>
+                    <li>
                         <NuxtLink @click="onClickNavMenu(false)" to="project"
                             class="block mt-4 lg:inline-block lg:mt-0 font-sans text-lg font-bold text-black-200 hover:text-white mr-4">
                             Project

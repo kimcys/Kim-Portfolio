@@ -2,8 +2,7 @@
     <div>
         <!-- About Project -->
         <div class="container mx-auto">
-            <MiniProject />
-            <Project />
+            <Certs></Certs>
         </div>
 
     </div>
