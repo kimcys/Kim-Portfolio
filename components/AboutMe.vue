@@ -28,7 +28,7 @@ export default {
                 {
                     id: 2,
                     bio:
-                        'A motivated, adaptable, and responsible computing undergraduate student from Universiti Putra Malaysia (UPM) which will utilize the professional and technical skills developed through past work experiences in this field. I have a methodical, customer-focused approach to work and a strong drive to see things through to completion.',
+                        'I am a versatile professional with a strong passion for combining creativity and technical expertise in the fields of Front-End Development and Product Design. With a solid background in both disciplines, I bring a unique perspective to crafting user-centered experiences that seamlessly blend form and function.',
                 },
                 {
                     id: 3,
