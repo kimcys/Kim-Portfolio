@@ -26,7 +26,7 @@
             </div>
 
             <div class="flex justify-center sm:block xl:block">
-                <a download="HakimResume.pdf" href="files/HakimResume.pdf"
+                <a download="HakimResume.pdf" href="files/hakimresume.pdf"
                     class="flex justify-center items-center w-36 sm:w-48 mt-5 mb-5 sm:mb-0 text-lg border border-bistre dark:border-ternary-dark h-14 text-center py-auto shadow-lg rounded-lg bg-white focus:ring-1 focus:ring-jet hover:bg-jet text-gray-500 hover:text-white duration-500"
                     aria-label="Download Resume">
                     <span class="text-sm sm:text-lg font-general-medium duration-100">Download Resume</span>
