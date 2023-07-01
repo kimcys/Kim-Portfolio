@@ -5,7 +5,7 @@ export default {
             ProjectHeading: 'Mini Projects',
             projects: [
                 {
-                    link: 'https://todolist-kim.netlify.app',
+                    link: 'https://orderlist-warung.netlify.app/',
                     source: 'https://github.com/kimcys/to_do.git',
                     title: 'To Do list',
                     img: 'projects/todo.svg',
@@ -17,6 +17,18 @@ export default {
                     title: 'Kimsio Calculator',
                     img: 'projects/calculator.svg',
                     info: 'Simple calculator',
+                },
+                {
+                    source: 'https://github.com/kimcys/internship-crud.git',
+                    title: 'Internship System',
+                    img: 'projects/intern.svg',
+                    info: 'Internship Student Management System',
+                },
+                {
+                    source: 'https://github.com/kimcys/gym-app.git',
+                    title: 'Gym App',
+                    img: 'projects/gym.svg',
+                    info: 'Gym Membership Application',
                 },
             ],
         };
