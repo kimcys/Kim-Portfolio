@@ -30,7 +30,7 @@ export default {
                     source: 'https://www.figma.com/file/QYbxISa7nxC4xK6ugskhYe/CMS?type=design&node-id=28%3A549&mode=design&t=U4M1UQIYJDTAAfIH-1',
                     title: 'Computer Maintenance System',
                     img: 'projects/hospital.svg',
-                    info: 'Computer Maintenance System for HPUPM',
+                    info: 'CMS for HPUPM',
                 },
                 {
                     link: 'https://www.figma.com/proto/XOJeZGVKuzDpJIXvV0lqIv/MyKhairat-Mobile-Web-App?page-id=0%3A1&type=design&node-id=21-76&viewport=222%2C373%2C0.21&t=caALldOEwqdzQnTk-1&scaling=scale-down&starting-point-node-id=16%3A2&mode=design',
