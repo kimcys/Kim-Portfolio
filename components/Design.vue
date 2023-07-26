@@ -26,6 +26,13 @@ export default {
                     info: 'SQA Portal design for TMRnD',
                 },
                 {
+                    link: 'https://www.figma.com/proto/1YHKUOYVJsHsREkhZ1wleD/SQA-PT?page-id=0%3A1&type=design&node-id=1-59&viewport=761%2C173%2C0.25&t=uMYYuJJl528nFKA3-1&scaling=min-zoom&starting-point-node-id=1%3A2&mode=design',
+                    source: 'https://www.figma.com/file/1YHKUOYVJsHsREkhZ1wleD/SQA-PT?type=design&node-id=1%3A57&mode=design&t=TORiF8uO1h7nyGgc-1',
+                    title: 'SQA PT Mobile',
+                    img: 'projects/sqa.svg',
+                    info: 'SQA Performance Testing for TMRnD',
+                },
+                {
                     link: 'https://www.figma.com/proto/QYbxISa7nxC4xK6ugskhYe/CMS?type=design&node-id=28-550&t=b43InNIzobNSGxFG-1&scaling=min-zoom&page-id=28%3A549&mode=design',
                     source: 'https://www.figma.com/file/QYbxISa7nxC4xK6ugskhYe/CMS?type=design&node-id=28%3A549&mode=design&t=U4M1UQIYJDTAAfIH-1',
                     title: 'Computer Maintenance System',
